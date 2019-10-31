@@ -1,6 +1,8 @@
 <p align="center"><img src="http://oduvanstudio.com/vdr.gif" alt="logo"></p>
 <h1 align="center">Vue-drag-resize</h1>
 
+# Important: This is just a fork of the master branch of https://github.com/kirillmurashov/vue-drag-resize.git which i use to publish to the npm registry to be able to use it easier than installing a git repo
+
 [![Latest Version on NPM](https://img.shields.io/npm/v/vue-drag-resize.svg?style=flat-square)](https://npmjs.com/package/vue-drag-resize)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![npm](https://img.shields.io/npm/dt/vue-drag-resize.svg?style=flat-square)](https://www.npmjs.com/package/vue-drag-resize)

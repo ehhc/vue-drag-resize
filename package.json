@@ -1,7 +1,7 @@
 {
-  "name": "vue-drag-resize",
-  "version": "1.3.2",
-  "description": "Vue Component for resize and drag elements",
+  "name": "@ehhc/vue-drag-resize",
+  "version": "1.3.3",
+  "description": "This package is a fork of the master branch of https://github.com/kirillmurashov/vue-drag-resize.git",
   "author": "Kirill Murashov <me@kirillmurashov.com>",
   "main": "dist/index.js",
   "scripts": {
